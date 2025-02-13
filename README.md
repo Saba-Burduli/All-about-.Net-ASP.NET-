@@ -7,7 +7,7 @@ All about .Net (ASP.NET)
 
 # Why Learn ASP.NET in 2025?
 
-Welcome to this repository! Here, we explore why **ASP.NET** is still a relevant and powerful framework to learn in 2025, its origins, and how it continues to evolve. Whether you're a beginner or an experienced developer, this guide will help you understand why ASP.NET is worth your time and effort.
+Welcome to this repository! Here, we explore why **ASP.NET** is still a relevant and powerful framework. to learn in 2025, its origins, and how it continues to evolve. Whether you're a beginner or an experienced developer, this guide will help you understand why ASP.NET is worth your time and effort.
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to this repository! Here, we explore why **ASP.NET** is still a relevant
 
 ## Why Learn ASP.NET in 2025?
 
-ASP.NET remains one of the most popular frameworks for building web applications, and here’s why it’s still relevant in 2025:
+ASP.NET Development remains one of the most popular frameworks for building web applications, and here’s why it’s still relevant in 2025:
 
 1. **Cross-Platform Development**: With .NET Core (now part of .NET 5+), you can build and deploy applications on Windows, macOS, and Linux.
 2. **High Performance**: ASP.NET is known for its speed and scalability, making it ideal for modern web applications.
