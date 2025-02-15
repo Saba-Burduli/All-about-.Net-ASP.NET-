@@ -11,7 +11,7 @@ Welcome to this repository! Here, we explore why **ASP.NET** is still a relevant
 
 ---
 
-## Table of Contents
+## Table Of Contents
 1. [Why Learn ASP.NET in 2025?](#why-learn-aspnet-in-2025)
 2. [The History of .NET](#the-history-of-net)
    - [Who Created .NET?](#who-created-net)
